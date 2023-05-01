@@ -1,0 +1,79 @@
+html{
+    background-color: #d2d8dd;
+    margin: auto;
+    box-sizing: border-box;
+    font-family: 'Arial';
+    border-color: black;
+    border-width: thin;
+    border-style: solid;
+}
+header{
+    background: url('fondo3.PNG');
+    height: 150px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    color: rgb(255, 247, 247);
+    border-color: black;
+    border-width: thin;
+    border-style: solid;
+    text-align: center;
+}
+body{
+    margin: auto;
+    margin-bottom: 10px;
+    font-family: 'Arial';
+}
+div#general{
+    margin: auto;
+    width: 900px;
+    height: 800px;
+    display: inline;
+    background-color: blueviolet;
+}
+aside#Menu{
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 50%;
+    background-color: rgb(45, 169, 222);
+    color: black;
+    font-family: 'Arial';
+}
+
+div#contenidos{
+    position: fixed;
+    display: inline;
+    background-color: white;
+    width: 90%;
+    height: 400px;
+    text-align: left;
+    border-color: black;
+    border-width: thin;
+    border-style: solid;
+}
+span#span1{
+    color: green;
+}
+span#span2{
+    color: rgb(43, 90, 43);
+}
+
+span#span3{
+    color: orange;
+}
+
+li#lis{
+    color: blue;
+}
+
+footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color:rgb(6, 6, 13);
+  background-color: rgb(66, 242, 248);
+  border-color: black;
+  border-width: thin;
+  border-style: solid;
+}
