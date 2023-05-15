@@ -32,7 +32,7 @@ aside#imagen{
 }
 div#restotexto{
      position: fixed;
-     bottom: 90px;;
+     bottom: 90px;
     display: block;
 
 }
@@ -53,5 +53,11 @@ ul#cursiva{
 }
 p#sangria{
     text-indent: 2%;
+}
+footer{
+    position: fixed;
+    bottom: 500px;
+    top: 600px;
+    text-align: center;
 }
 
